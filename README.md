@@ -1,4 +1,4 @@
-# cron-job-golang-example
+# mp4-to-image-golang
 
 ```
 go get .
